@@ -9,6 +9,7 @@ def testfunc():
    pass
 
 print("Hello world...")
+print("Bye.")
 testfunc()
 
 # end of file
