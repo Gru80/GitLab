@@ -11,5 +11,6 @@ def testfunc():
 print("Hello world...")
 print("Bye.")
 testfunc()
+# again a comment
 
 # end of file
