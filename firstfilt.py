@@ -15,3 +15,4 @@ testfunc()
 # again a comment hoho
 
 # end of file
+# Lets try this stash stuff out
